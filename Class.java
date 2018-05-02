@@ -1,6 +1,3 @@
-// Student Name:
-// Andrew ID:
-
 public class Game
 {
   //fields (do not add new fields)
